@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &475473744543173050
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1502445486408795942, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: launchForce
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502445486408795942, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: damageToDeal
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3355413884480616844, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3355413884480616844, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: _assetId
+      value: 1239690768
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379642, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7448965893195379643, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: 9ed1e8a25f964bd4298944675e425a0d, type: 3}
+    - target: {fileID: 7448965893195379646, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+      propertyPath: m_Name
+      value: SmallUnitProjectile
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7448965893195379645, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+--- !u!1 &7059730904631769604 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7448965893195379646, guid: 3cf1237e19501c64f8b11d9878a6b08c, type: 3}
+  m_PrefabInstance: {fileID: 475473744543173050}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &3697977615317338134
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7059730904631769604}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 0.15166132
+  m_Height: 0.5511842
+  m_Direction: 2
+  m_Center: {x: 0.08660178, y: -0.012045741, z: 0.19206914}
